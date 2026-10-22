@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.35229.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Оринчай_GIT_PR08", "Оринчай_GIT_PR08.csproj", "{465FCBE6-E56F-44F5-BC65-B1224FDEBFE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Форма администратора", "..\Форма администратора\Форма администратора.csproj", "{0720F224-9D77-4BEC-89CA-026924901D46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Форма менеджера", "..\Форма менеджера\Форма менеджера.csproj", "{E054D580-D705-4122-8FF4-363632DEE81B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{465FCBE6-E56F-44F5-BC65-B1224FDEBFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{465FCBE6-E56F-44F5-BC65-B1224FDEBFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{465FCBE6-E56F-44F5-BC65-B1224FDEBFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0720F224-9D77-4BEC-89CA-026924901D46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0720F224-9D77-4BEC-89CA-026924901D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0720F224-9D77-4BEC-89CA-026924901D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0720F224-9D77-4BEC-89CA-026924901D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E054D580-D705-4122-8FF4-363632DEE81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E054D580-D705-4122-8FF4-363632DEE81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E054D580-D705-4122-8FF4-363632DEE81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E054D580-D705-4122-8FF4-363632DEE81B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
